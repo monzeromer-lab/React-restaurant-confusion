@@ -6,7 +6,7 @@ import {DISHES} from '../shared/dishes';
 import Dishdetail from './DishdetailComponent';
 import Header from './HeaderComponent';
 import Footer from './FooterComponent';
-import About from './AboutComponent3';
+import About from './AboutComponent';
 import { COMMENTS } from '../shared/comments';
 import { PROMOTIONS } from '../shared/promotions';
 import { LEADERS } from '../shared/leaders';
